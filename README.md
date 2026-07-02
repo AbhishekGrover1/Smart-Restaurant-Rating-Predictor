@@ -212,5 +212,5 @@ Outputs (model comparison plots, actual vs predicted scatter, feature importance
 ## Author
 
 **Abhishek** | Ref: CTI/A1/C358755
-BCA — Amity University Online, Noida
+BCA — Amity University Online, Noida,UP
 Machine Learning Internship @ Cognifyz Technologies
